@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "mobileNumber": "9361443302",
+      "otp": null,
+      "isRegistered": true,
+      "fullName": "Gokul",
+      "emergencyContact": "7305741416"
+    }
+  ],
+  "safezones": [
+    {
+      "mobileNumber": "1234567890",
+      "name": "home",
+      "latitude": 12.682494778525426,
+      "longitude": 79.98279958387316,
+      "radius": 100,
+      "id": 1
+    }
+  ]
+}

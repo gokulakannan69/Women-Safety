@@ -1,0 +1,146 @@
+
+=== MOCK SMS ===
+To: 2830482440
+Message: Your registration OTP is: 5712
+================
+
+=== MOCK SMS ===
+To: 9998887776
+Message: SOS! I need help! My current location: https://maps.google.com/?q=28.6139,77.209
+================
+
+=== MOCK SMS ===
+To: 4903934521
+Message: Your registration OTP is: 7726
+================
+
+=== MOCK SMS ===
+To: 9876543210
+Message: SOS! I need help! My current location: https://maps.google.com/?q=48.8584,2.2945
+================
+
+=== MOCK SMS ===
+To: 9361443302
+Message: Your login OTP is: 3669
+================
+
+=== MOCK SMS ===
+To: 9626049975
+Message: SOS! I need help! My current location: https://www.openstreetmap.org/?mlat=11.0460928&mlon=76.9753088#map=16/11.0460928/76.9753088
+Address: Ward 41, North Zone, Coimbatore, Coimbatore North, கோயம்புத்தூர் மாவட்டம், Tamil Nadu, 641001, India
+================
+
+=== MOCK SMS ===
+To: 9626049975
+Message: SOS! I need help! My current location: https://www.openstreetmap.org/?mlat=12.9716&mlon=77.5946#map=16/12.9716/77.5946
+================
+
+=== MOCK SMS ===
+To: 7289376145
+Message: Your registration OTP is: 5125
+================
+
+=== MOCK SMS ===
+To: 9998887776
+Message: SOS! I need help! My current location: https://www.openstreetmap.org/?mlat=28.6139&mlon=77.209#map=16/28.6139/77.209
+================
+
+=== MOCK SMS ===
+To: 9626049975
+Message: SOS! I need help! My current location: https://www.openstreetmap.org/?mlat=11.0460928&mlon=76.9753088#map=16/11.0460928/76.9753088
+Address: Ward 41, North Zone, Coimbatore, Coimbatore North, கோயம்புத்தூர் மாவட்டம், Tamil Nadu, 641001, India
+================
+
+=== MOCK SMS ===
+To: 9626049975
+Message: SOS! I need help! My current location: https://www.openstreetmap.org/?mlat=11.0460928&mlon=76.9753088#map=16/11.0460928/76.9753088
+Address: Ward 41, North Zone, Coimbatore, Coimbatore North, கோயம்புத்தூர் மாவட்டம், Tamil Nadu, 641001, India
+================
+
+=== MOCK SMS ===
+To: 9662045565
+Message: Your registration OTP is: 9019
+================
+
+=== MOCK SMS ===
+To: 9998887776
+Message: SOS! I need help! My current location: https://www.openstreetmap.org/?mlat=28.6139&mlon=77.209#map=16/28.6139/77.209
+================
+
+=== MOCK SMS ===
+To: 9361443302
+Message: Your login OTP is: 4442
+================
+
+=== MOCK SMS ===
+To: 9626049975
+Message: SOS! I need help! My current location: https://www.openstreetmap.org/?mlat=12.919535829774395&mlon=80.09284383585894#map=16/12.919535829774395/80.09284383585894
+Address: Perungalathur, Tambaram, Chengalpattu, Tamil Nadu, 600045, India
+================
+
+=== MOCK SMS ===
+To: 9626049975
+Message: SOS! I need help! My current location: https://www.openstreetmap.org/?mlat=12.919535829774395&mlon=80.09284383585894#map=16/12.919535829774395/80.09284383585894
+Address: Perungalathur, Tambaram, Chengalpattu, Tamil Nadu, 600045, India
+================
+
+=== MOCK SMS ===
+To: 9626049975
+Message: SOS! I need help! My current location: https://www.openstreetmap.org/?mlat=12.919535829774395&mlon=80.09284383585894#map=16/12.919535829774395/80.09284383585894
+Address: Perungalathur, Tambaram, Chengalpattu, Tamil Nadu, 600045, India
+================
+
+=== MOCK SMS ===
+To: 9361443302
+Message: Your login OTP is: 5707
+================
+
+=== MOCK SMS ===
+To: 9626049975
+Message: SOS! I need help! My current location: https://www.openstreetmap.org/?mlat=12.919535829774395&mlon=80.09284383585894#map=16/12.919535829774395/80.09284383585894
+Address: Perungalathur, Tambaram, Chengalpattu, Tamil Nadu, 600045, India
+================
+
+=== MOCK SMS ===
+To: 9626049975
+Message: SOS! I need help! My current location: https://www.openstreetmap.org/?mlat=12.919535829774395&mlon=80.09284383585894#map=16/12.919535829774395/80.09284383585894
+Address: Perungalathur, Tambaram, Chengalpattu, Tamil Nadu, 600045, India
+================
+
+=== MOCK SMS ===
+To: 9361443302
+Message: Your login OTP is: 2885
+================
+
+=== MOCK SMS ===
+To: 9626049975
+Message: SOS! I need help! My current location: https://www.openstreetmap.org/?mlat=12.919541536909874&mlon=80.09290300000002#map=16/12.919541536909874/80.09290300000002
+Address: Perungalathur, Tambaram, Chengalpattu, Tamil Nadu, 600045, India
+================
+
+=== MOCK SMS ===
+To: 9626049975
+Message: SOS! I need help! My current location: https://www.openstreetmap.org/?mlat=12.919541536909874&mlon=80.09290300000002#map=16/12.919541536909874/80.09290300000002
+Address: Perungalathur, Tambaram, Chengalpattu, Tamil Nadu, 600045, India
+================
+
+=== MOCK SMS ===
+To: 9626049975
+Message: SOS! I need help! My current location: https://www.openstreetmap.org/?mlat=12.919541536909874&mlon=80.09290300000002#map=16/12.919541536909874/80.09290300000002
+Address: Perungalathur, Tambaram, Chengalpattu, Tamil Nadu, 600045, India
+================
+
+=== MOCK SMS ===
+To: 9361443302
+Message: Your login OTP is: 5109
+================
+
+=== MOCK SMS ===
+To: 9361443302
+Message: Your login OTP is: 4322
+================
+
+=== MOCK SMS ===
+To: 9361443302
+Message: Your login OTP is: 5194
+================
